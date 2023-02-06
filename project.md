@@ -1,6 +1,4 @@
 # Команды гита
-* git config --global user.name "My name"- ПРЕДСТАВИТЬСЯ ГИТУ ПО ИМЕНИ 
-* git config --global user.email e@mail.ru- указать гиту свою почту 
 * git init      создать локальный репозиторий
 * git status- есть локальный репозиторий или нет, есть ли отслеживаемый гитом файл и тд.
 * git add filename.file-extension    добавляет один или несколько файлов к следующему коммиту
